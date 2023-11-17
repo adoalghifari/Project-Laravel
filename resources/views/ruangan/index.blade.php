@@ -24,7 +24,7 @@
                         <div class="input-group mb-3">
                         <label class="input-group-text" for="inputGroupSelect01">Ukuran</label>
                         <select class="form-select" id="inputGroupSelect01" name="ukuran">
-                            <option selected>Pilih...</option>    
+                            <option selected disabled>Pilih...</option>    
                             <option value="small">Small</option>
                             <option value="medium">Medium</option>
                             <option value="large">Large</option>
